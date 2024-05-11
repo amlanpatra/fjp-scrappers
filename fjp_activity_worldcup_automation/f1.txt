@@ -1,0 +1,4 @@
+hey everyone
+this is the test file for checking whether js file handling is working or not
+this is the third line of the file
+finally signing out
